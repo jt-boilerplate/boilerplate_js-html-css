@@ -11,3 +11,4 @@ Has Graph Graph Protocol meta in the head and basic webpage layout setup.
 - And you're off to the races.
 - As you create your project and want to commit to github, just 'git add .' git commit -m "insert message" and 'git push'.
 - Pretty simple and easy to get going.
+- Enjoy :)
