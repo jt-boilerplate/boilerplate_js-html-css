@@ -1,3 +1,15 @@
+/* TIPS */
+
+// Use rem units
+// Use flex-start, flex-end, grid, start, grid end, etc... instead of Left, right, up down, etc...
+// Use Accessible contrast ratios
+// Use proper font spacing and line height for fonts that are designed to headers or fonts that designed to be body text.
+// Avoid absolute units in line-height. Ie. use 1.5 instead of 22px.
+// Include purely decorative images like baners in CSS instead of in html file.
+// Avoid text in images and instead put the text at a higher Z index. - This makes the site more accessible, responsive, translatable and searchable.
+// Do not let secondary content occupy the screen.
+// Use vector graphics like SVG instead of raster graphics like PNG.
+
 /* Hide the skip link */
 .skip {
   position: absolute;
